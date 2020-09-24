@@ -20,9 +20,13 @@ The project 1 of CS400
 
 The Data comes from https://www.kaggle.com/abcsds/pokemon
 
-**[Next Generation]***
+**[Next Generation]**
 
 To rich the Pokemon quantities and varieties in future, we hope to build the Sharing Platform to allow users upload new Pokemon in our data set where new Pokemon will be updated synchronously. To complete the Pokédex, we are happy to receive our users' feedbacks! Thank you!
+
+**[Build]** 
+
+This Project is by ***Java***
 
 
 
