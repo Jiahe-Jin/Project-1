@@ -2,8 +2,9 @@
 The project 1 of CS400
 
 **The Project Name:** Pokédex
-[Mission] Pokédex is committed to Pokemon Lovers. It helps to search, check, and document all Pokemon.
-[Authors] [Data Wranglers]       Minghao Zhou Liangqi Cai
+**[Mission]** Pokédex is committed to Pokemon Lovers. It helps to search, check, and document all Pokemon.
+**[Authors]** 
+          [Data Wranglers]       Minghao Zhou Liangqi Cai
           [Back End Developers]  Tianwei Bao Seungjun Chong
           [Front End Developers] Zhiwei Cao Jiahe Jin
           [Test Engineer]        Yunzhao Liu
