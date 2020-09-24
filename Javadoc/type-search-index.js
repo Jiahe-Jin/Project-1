@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Data","h":"","u":""},{"l":"DataTest","h":"","u":""},{"l":"HashNode","h":"","u":""},{"l":"Launch","h":"","u":""},{"l":"Manager","h":"","u":""},{"l":"MapADT","h":"","u":""},{"l":"MyFavorite","h":"","u":""},{"l":"Pokemon","h":"","u":""},{"l":"PokemonTable","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
